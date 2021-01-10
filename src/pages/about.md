@@ -1,9 +1,6 @@
 ---
 title: Who We Are
 sections:
-  - type: hero_section
-    title: Who We Are
-    align: center
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
@@ -26,6 +23,9 @@ sections:
       - src/data/team/eleanor-carr.yaml
       - src/data/team/hanson-deck.yaml
       - src/data/team/gordon-norman.yaml
+  - type: hero_section
+    title: Who We Are
+    align: center
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
